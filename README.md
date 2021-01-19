@@ -21,6 +21,8 @@ Fragment shader files end with a .frag and Vertex shader files end with a .vert
 
 Headers including the Camera, Mesh, Model and Shader classes are located under /includes
 
+Models and textures are included under /Resources
+
 
 
 For the sake of simplicity, I am using the following libraries (while fully knowing how they work):
