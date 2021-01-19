@@ -13,7 +13,14 @@ Post-processing effects
 
 Skybox
 
-Fragment shader files end with a .frag and Vertex shaders end with a .vert
+
+Source Codes are located under the /src folder, which also includes the Shaders.
+
+The GLSL shaders are located under /src/Shaders
+Fragment shader files end with a .frag and Vertex shader files end with a .vert
+
+Headers including the Camera, Mesh, Model and Shader classes are located under /includes
+
 
 
 For the sake of simplicity, I am using the following libraries (while fully knowing how they work):
